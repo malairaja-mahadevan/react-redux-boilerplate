@@ -4,6 +4,7 @@ A sample react app boilerplate using redux store for state management
 
 ## Steps to run the repo
 
+cd boilerplate-app
 npm install
 npm start
 
